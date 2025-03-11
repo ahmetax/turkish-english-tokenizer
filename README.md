@@ -1,4 +1,4 @@
-# TurkishEnglish Tokenizer
+# Turkish English Tokenizer
 
 ## Projenin öyküsü: 
 
